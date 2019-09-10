@@ -1,0 +1,11 @@
+p {
+	font-family: Helvetica, Arial, sans-serif;
+}
+a, a:link {
+	color: #757575;
+	text-decoration: none;
+}
+a:hover {
+	color: #757575;
+	text-decoration: underline;
+}
